@@ -1,0 +1,193 @@
+.movies{
+    background-color: black;
+    color:cyan;
+}
+.header{
+    height:150px;
+    background-color:cyan;
+    color:black;
+    width:100%;
+}
+.header-logo{
+    font-size:50px;
+    padding:45px 30px;
+    font-family:serif;
+    float:left;
+}
+.header-desc{
+    font-size:30px;
+    float:right;
+    padding:57px 30px;
+    font-family: serif;
+}
+.main{
+    background-color: black;
+    color:white;
+    width:100%;
+    height:2720px;
+    font-family:serif;
+}
+
+h3{
+    font-size:32px;
+    padding-left:20px;
+    color:cyan;
+    margin-top:60px;
+}
+
+.main-about{
+    font-size:20px;
+    padding-left:20px;
+}
+
+.movies-item{
+    float:left;
+    padding-left:37px;
+    width:17%;
+}
+
+.movies-item p{
+    font-size:20px;
+    text-align:center;
+}
+
+.movies-item a{
+    color:black;
+    text-decoration: none;
+}
+
+.movie-img{
+    padding-left:37px;
+}
+
+.movie-img:hover{
+    opacity:0.9;
+}
+
+.btn{
+    padding:5px 5px;
+    color:black;
+    display:inline-block;
+    opacity:1;
+    background-color:cyan;
+    border-radius:4px;
+    cursor:pointer;
+    box-shadow:0 5px darkcyan;
+}
+
+.btn:active{
+    box-shadow: none;
+    position: relative;
+    top:5px;
+}
+
+.btn:hover{
+    opacity:0.8;
+}
+
+.tv-item{
+    float:left;
+    padding-left:37px;
+    width:17%;
+}
+
+.tv-item p{
+    font-size:20px;
+    text-align:center;
+}
+
+.tv-item a{
+    color:black;
+    text-decoration: none;
+}
+
+.tv-img{
+    padding-left:37px;
+}
+
+.tv-img:hover{
+    opacity:0.9;
+}
+
+.anime-item{
+    float:left;
+    padding-left:37px;
+    width:17%;
+}
+
+.anime-item p{
+    font-size:20px;
+    text-align:center;
+}
+
+.anime-item a{
+    color:black;
+    text-decoration: none;
+}
+
+.anime-img{
+    padding-left:37px;
+}
+
+.anime-img:hover{
+    opacity:0.9;
+}
+
+
+h4{
+    color:cyan;
+    font-size:20px;
+    padding-bottom:15px;
+    margin-top:400px;
+    padding-left:20px;
+}
+.signup p{
+    color:cyan;
+    padding-left:20px;
+}
+.text{
+    box-sizing:30px 100px;
+    background-color:darkgrey;
+    color:black;
+    margin-left:20px;
+    padding-left: 10px;
+}
+.checkout p{
+    color:cyan;
+    padding-left:20px;
+    font-size:20px;
+}
+checkbox{
+    box-sizing:3px;
+    color:black;
+    padding-left:20px;
+}
+.billing p{
+    font-size:15px;
+    color:white;
+}
+
+h5{
+    font-size:18px;
+    color: cyan;
+}
+.billing{
+    padding-left:20px;
+}
+
+.footer{
+    background-color:cyan;
+    color:black;
+    height:110px;
+    margin-top:50px;
+}
+.footer h5{
+    color:black;
+    font-size:25px;
+    float:left;
+}
+h6{
+    float:right;
+    font-size:20px;
+    color:black;
+}
